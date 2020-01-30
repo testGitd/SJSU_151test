@@ -24,10 +24,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sunta\OneDrive\Desktop\CS_151\.idea" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,9 +49,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="657" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580341466603">
+    <state x="415" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580360798846">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="657" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1580341466603" />
+    <state x="415" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1580360798846" />
+    <state x="657" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580360628751">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="657" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1580360628751" />
   </component>
 </project>
